@@ -1,2 +1,2 @@
 
-Copyright (C) 2019 Tyler
+Copyright (C) 2019 Tyler Richards
