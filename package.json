@@ -10,7 +10,7 @@
 	},
 	"main": "index.js",
 	"license": "UNLICENSED",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"repository": "tjrgg/eslint-config-tjr",
 	"devDependencies": {
 		"eslint": ">=6.4.0"
