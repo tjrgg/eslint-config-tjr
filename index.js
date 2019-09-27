@@ -9,7 +9,6 @@ module.exports = {
 	rules: {
 		'array-bracket-spacing': [ 'error', 'always' ],
 		'arrow-parens': [ 'error', 'always' ],
-		'badded-blocks': [ 'error', { 'blocks': 'never', 'classes': 'always', 'switches': 'never' } ],
 		'brace-style': [ 'error', 'stroustrup', { 'allowSingleLine': true } ],
 		'capitalized-comments': 'off',
 		'curly': [ 'warn', 'multi-line' ],
@@ -17,6 +16,7 @@ module.exports = {
 		'linebreak-style': [ 'warn', 'unix' ],
 		'no-multiple-empty-lines': [ 'error', { 'max': 3 } ],
 		'object-curly-spacing': [ 'error', 'always' ],
+		'padded-blocks': [ 'error', { 'blocks': 'never', 'classes': 'always', 'switches': 'never' } ],
 		'quote-props': [ 'error', 'consistent' ],
 		'radix': [ 'error', 'as-needed' ],
 		'unicorn/filename-case': [ 'error', { 'cases': { 'camelCase': true, 'kebabCase': true, 'pascalCase': true } } ]
