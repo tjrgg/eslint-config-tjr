@@ -1,0 +1,21 @@
+{
+	"name": "eslint-config-tjrgg",
+	"description": "ESLint shareable config for TJR",
+	"author": {
+		"name": "Tyler Richards",
+		"email": "hello@tjrgg.xyz"
+	},
+	"engines": {
+		"node": ">=8.0.0"
+	},
+	"main": "index.js",
+	"license": "UNLICENSED",
+	"version": "1.0.0",
+	"repository": "tjrgg/eslint-config-tjrgg",
+	"devDependencies": {
+		"eslint": ">=6.4.0"
+	},
+	"peerDependencies": {
+		"eslint": ">=6.4.0"
+	}
+}
