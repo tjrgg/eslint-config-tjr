@@ -9,7 +9,7 @@ module.exports = {
 		'arrow-parens': [ 'error', 'always' ],
 		'brace-style': [ 'error', 'stroustrup', { 'allowSingleLine': true } ],
 		'capitalized-comments': 'off',
-		'curly': 'warn',
+		'curly': [ 'warn', 'multi-line' ],
 		'func-names': [ 'warn', 'as-needed' ],
 		'linebreak-style': [ 'warn', 'unix' ]
 	}
