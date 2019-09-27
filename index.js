@@ -5,6 +5,7 @@ module.exports = {
 		node: true,
 		es6: true
 	},
+	extends: 'xo',
 	rules: {
 		'array-bracket-spacing': [ 'error', 'always' ],
 		'arrow-parens': [ 'error', 'always' ],
