@@ -15,6 +15,7 @@ module.exports = {
 		'func-names': [ 'warn', 'as-needed' ],
 		'linebreak-style': [ 'warn', 'unix' ],
 		'no-multiple-empty-lines': [ 'error', { 'max': 3 } ],
+		'no-negated-condition': 'off',
 		'object-curly-spacing': [ 'error', 'always' ],
 		'padded-blocks': [ 'error', { 'blocks': 'never', 'classes': 'always', 'switches': 'never' } ],
 		'quote-props': [ 'error', 'consistent' ],
